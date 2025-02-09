@@ -1,7 +1,10 @@
-# Image Processing Analysis
+# Question
 
-This project demonstrates basic image processing techniques including region extraction, noise addition, and image restoration using Python. The code works with grayscale images and showcases various image manipulation and visualization methods.
-
+1. Subset the clear water and rock portion with the dimension of (18x18).
+2. Print the DN values from the subset image.
+3. Degrade image with addition of noise .
+4. Apply restoration method to restore image using suitable filtering techniques.
+---
 ## Dependencies
 
 - NumPy (`numpy`)
